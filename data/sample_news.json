@@ -1,0 +1,82 @@
+{
+  "AAPL": [
+    {"title": "Apple reports record quarterly revenue driven by iPhone 15 Pro demand"},
+    {"title": "Apple Vision Pro spatial computing headset launches to strong reviews"},
+    {"title": "Apple services revenue surges 16% year-over-year, beating analyst estimates"},
+    {"title": "Apple expands AI features in iOS 18 update with on-device processing"},
+    {"title": "Analysts raise Apple price targets following strong earnings beat"},
+    {"title": "Apple faces EU antitrust scrutiny over App Store payment practices"},
+    {"title": "Apple supply chain concerns emerge amid Taiwan geopolitical tensions"},
+    {"title": "Warren Buffett's Berkshire Hathaway maintains Apple as top holding"}
+  ],
+  "MSFT": [
+    {"title": "Microsoft Azure cloud revenue grows 29% as AI workloads drive demand"},
+    {"title": "Microsoft Copilot AI assistant adopted by 40% of Fortune 500 companies"},
+    {"title": "Microsoft reports strong quarterly earnings, raises full-year guidance"},
+    {"title": "Microsoft and OpenAI partnership deepens with $10B additional investment"},
+    {"title": "Microsoft Teams gains market share as enterprise collaboration tool"},
+    {"title": "Microsoft faces regulatory review of Activision Blizzard acquisition"},
+    {"title": "Microsoft stock hits all-time high as AI optimism drives tech rally"},
+    {"title": "Analysts bullish on Microsoft's AI monetization strategy"}
+  ],
+  "TSLA": [
+    {"title": "Tesla misses delivery estimates for second consecutive quarter"},
+    {"title": "Tesla announces major price cuts to stimulate demand amid EV slowdown"},
+    {"title": "Elon Musk spends more time on X (Twitter) than Tesla, investors worried"},
+    {"title": "Tesla Cybertruck production ramp-up faces quality control challenges"},
+    {"title": "Tesla faces intensifying competition from BYD and Chinese EV makers"},
+    {"title": "Tesla Full Self-Driving software update receives mixed user reviews"},
+    {"title": "Tesla energy storage business grows 100% year-over-year"},
+    {"title": "Short sellers increase Tesla positions as stock slides 20% from highs"}
+  ],
+  "NVDA": [
+    {"title": "NVIDIA reports record data center revenue as AI chip demand explodes"},
+    {"title": "NVIDIA H100 GPU backlog extends to 12 months as tech companies race for AI capacity"},
+    {"title": "NVIDIA announces next-gen Blackwell architecture, leap ahead of competitors"},
+    {"title": "NVIDIA stock becomes most valuable company in the world by market cap"},
+    {"title": "NVIDIA partners with top cloud providers for AI inference infrastructure"},
+    {"title": "Analysts warn NVIDIA valuation may be stretched at current P/E levels"},
+    {"title": "US export restrictions on advanced chips to China may impact NVIDIA revenue"},
+    {"title": "NVIDIA raises dividend and announces massive share buyback program"}
+  ],
+  "GOOGL": [
+    {"title": "Alphabet Google Search revenue grows 14% driven by AI-enhanced results"},
+    {"title": "Google Cloud achieves profitability milestone, revenue up 28% YoY"},
+    {"title": "Alphabet announces $70B share buyback, largest in company history"},
+    {"title": "Google faces antitrust ruling in search monopoly case"},
+    {"title": "Google Gemini AI model gains traction in enterprise market"},
+    {"title": "YouTube ad revenue bounces back strongly after soft year"},
+    {"title": "Alphabet beats earnings estimates on cost-cutting and AI momentum"},
+    {"title": "Analysts bullish on Google's AI integration across Search and Cloud"}
+  ],
+  "AMZN": [
+    {"title": "Amazon AWS revenue accelerates as AI cloud services drive enterprise adoption"},
+    {"title": "Amazon reports highest quarterly profit in company history"},
+    {"title": "Amazon Prime membership grows 8% globally to 200 million subscribers"},
+    {"title": "Amazon expands same-day delivery to 50 new metropolitan areas"},
+    {"title": "Amazon advertising revenue grows 24%, becoming third-largest ad platform"},
+    {"title": "Amazon faces warehouse worker union organizing challenges"},
+    {"title": "Amazon Bedrock AI platform gains significant enterprise customers"},
+    {"title": "Analysts lift Amazon price targets as margin expansion continues"}
+  ],
+  "META": [
+    {"title": "Meta reports strongest revenue growth in three years as ad market recovers"},
+    {"title": "Meta AI assistant reaches 500 million monthly active users"},
+    {"title": "Meta's Reality Labs losses narrow as Quest 3 headset gains traction"},
+    {"title": "Meta Threads social platform surpasses 200 million monthly users"},
+    {"title": "Meta announces new AI infrastructure investment of $40B in 2025"},
+    {"title": "Meta faces ongoing regulatory scrutiny over teen social media safety"},
+    {"title": "WhatsApp Business platform becomes key revenue driver for Meta"},
+    {"title": "Analysts raise Meta price targets on strong advertising outlook"}
+  ],
+  "DEFAULT": [
+    {"title": "Stock markets show mixed signals as investors weigh Fed rate decisions"},
+    {"title": "Analysts divided on near-term equity market outlook amid uncertainty"},
+    {"title": "Quarterly earnings season delivers mixed results across sectors"},
+    {"title": "Economic data suggests resilient consumer spending despite headwinds"},
+    {"title": "Market volatility increases as geopolitical tensions weigh on sentiment"},
+    {"title": "Institutional investors rotate between growth and value stocks"},
+    {"title": "Corporate profit margins under pressure from persistent cost inflation"},
+    {"title": "Sector leaders report solid results, supporting cautious optimism"}
+  ]
+}
