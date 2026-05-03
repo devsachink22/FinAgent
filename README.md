@@ -162,7 +162,7 @@ cp .env.example .env      # macOS/Linux
 streamlit run app.py
 ```
 
-Open `https://finagent-by-devsachink.streamlit.app/` in your browser.
+Open `http://localhost:8501` or `https://finagent-by-devsachink.streamlit.app/` in your browser.
 
 ### B. Command-Line Interface
 
